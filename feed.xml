@@ -5,10 +5,19 @@
   <link rel="self" type="application/atom+xml" href="https://cfmayer.github.io/launch-report/feed.xml"/>
   <link rel="alternate" type="text/html" href="https://cfmayer.github.io/launch-report/"/>
   <id>https://cfmayer.github.io/launch-report/</id>
-  <updated>2026-10-08T15:16:03-04:00</updated>
+  <updated>2026-10-12T08:46:38-04:00</updated>
   <author><name>The Launch Report</name></author>
   <icon>https://cfmayer.github.io/launch-report/apple-touch-icon.png</icon>
   <rights>The Launch Report is compiled from official agency releases, regulatory filings, orbital tracking data, public posts on X and published reporting. Quotes are reproduced verbatim unless marked as translated or paraphrased. Launch times change often; check with the launch provider before making plans.</rights>
+  <entry>
+    <title>Monday, October 12, 2026: The SDA batch finally flies, China adds 27th SatNet group, and three old stages come home</title>
+    <link rel="alternate" type="text/html" href="https://cfmayer.github.io/launch-report/issues/2026-10-12/"/>
+    <link rel="enclosure" type="application/pdf" length="844831" href="https://cfmayer.github.io/launch-report/issues/2026-10-12/launch-report-2026-10-12.pdf"/>
+    <id>https://cfmayer.github.io/launch-report/issues/2026-10-12/</id>
+    <published>2026-10-12T08:00:00-04:00</published>
+    <updated>2026-10-12T08:46:38-04:00</updated>
+    <summary type="html">&lt;p&gt;A SpaceX Falcon 9 carried 21 Space Development Agency (SDA) satellites to orbit from California at 3:39 a.m. EDT Saturday, five days after an abort at T-minus 58 seconds. Eleven hours earlier, at 3:27 p.m. EDT Friday, a Long March 12 lifted off from Hainan with the 27th group of China&#x27;s SatNet low-orbit internet satellites. Those were the world&#x27;s only two orbital launches since Thursday, according to &lt;a href=&quot;https://ll.thespacedevs.com/2.3.0/launches/previous/?net__gte=2026-10-08&quot;&gt;Launch Library 2&lt;/a&gt;, bringing 2026 to 239 attempts.&lt;/p&gt;&lt;p&gt;All three rocket stages predicted to reenter on Saturday, including a Delta 2 stage launched in 1990, did so, according to CelesTrak. This week brings a Starlink launch Monday night, NASA&#x27;s CRS-35 cargo flight to the International Space Station (ISS) on Tuesday and a U.S. Space Force mission on Thursday, with Japan&#x27;s H3 and its Mars-moon probe a week out. Elon Musk said Starship&#x27;s next flight is four to six weeks away and will try to catch the ship itself.&lt;/p&gt;</summary>
+  </entry>
   <entry>
     <title>Thursday, October 8, 2026: Nuri goes four for four, Crew-12 comes home, and a Mars-moon mission heads for the pad</title>
     <link rel="alternate" type="text/html" href="https://cfmayer.github.io/launch-report/issues/2026-10-08/"/>
