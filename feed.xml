@@ -5,10 +5,19 @@
   <link rel="self" type="application/atom+xml" href="https://cfmayer.github.io/launch-report/feed.xml"/>
   <link rel="alternate" type="text/html" href="https://cfmayer.github.io/launch-report/"/>
   <id>https://cfmayer.github.io/launch-report/</id>
-  <updated>2026-10-19T08:45:00-04:00</updated>
+  <updated>2026-10-22T09:11:43-04:00</updated>
   <author><name>The Launch Report</name></author>
   <icon>https://cfmayer.github.io/launch-report/apple-touch-icon.png</icon>
   <rights>The Launch Report is compiled from official agency releases, regulatory filings, orbital tracking data, public posts on X and published reporting. Quotes are reproduced verbatim unless marked as translated or paraphrased. Launch times change often; check with the launch provider before making plans.</rights>
+  <entry>
+    <title>Thursday, October 22, 2026: MMX is on its way to Mars; three launches, three successes since Monday</title>
+    <link rel="alternate" type="text/html" href="https://cfmayer.github.io/launch-report/issues/2026-10-22/"/>
+    <link rel="enclosure" type="application/pdf" length="769162" href="https://cfmayer.github.io/launch-report/issues/2026-10-22/launch-report-2026-10-22.pdf"/>
+    <id>https://cfmayer.github.io/launch-report/issues/2026-10-22/</id>
+    <published>2026-10-22T08:00:00-04:00</published>
+    <updated>2026-10-22T09:11:43-04:00</updated>
+    <summary type="html">&lt;p&gt;Japan&#x27;s H3 sent the Martian Moons eXploration (MMX) probe toward Mars at 3:41 p.m. EDT Monday, a Falcon 9 flew the Bandwagon-5 rideshare from Florida on Tuesday morning, and Galactic Energy launched a Ceres-1S from the sea off eastern China that night. That brings 2026 to 246 orbital launch attempts, 239 of them successful, counting &lt;a href=&quot;https://planet4589.org/space/gcat/&quot;&gt;GCAT&lt;/a&gt; through October 15 and &lt;a href=&quot;https://ll.thespacedevs.com/2.3.0/launches/previous/&quot;&gt;Launch Library 2&lt;/a&gt; since.&lt;/p&gt;&lt;p&gt;Two launches stood down. Thunderstorms scrubbed Starlink 15-15 at Vandenberg on Wednesday, a day after a technical issue stopped it, and Rocket Lab postponed an Electron for HawkEye 360 to review &quot;out-of-family telemetry data.&quot; Both have new dates this week, as do three Long March rockets.&lt;/p&gt;</summary>
+  </entry>
   <entry>
     <title>Monday, October 19, 2026: One launch since Thursday; H3 sends MMX toward Mars this afternoon</title>
     <link rel="alternate" type="text/html" href="https://cfmayer.github.io/launch-report/issues/2026-10-19/"/>
