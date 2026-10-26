@@ -5,10 +5,19 @@
   <link rel="self" type="application/atom+xml" href="https://cfmayer.github.io/launch-report/feed.xml"/>
   <link rel="alternate" type="text/html" href="https://cfmayer.github.io/launch-report/"/>
   <id>https://cfmayer.github.io/launch-report/</id>
-  <updated>2026-10-22T09:11:43-04:00</updated>
+  <updated>2026-10-26T12:10:34-04:00</updated>
   <author><name>The Launch Report</name></author>
   <icon>https://cfmayer.github.io/launch-report/apple-touch-icon.png</icon>
   <rights>The Launch Report is compiled from official agency releases, regulatory filings, orbital tracking data, public posts on X and published reporting. Quotes are reproduced verbatim unless marked as translated or paraphrased. Launch times change often; check with the launch provider before making plans.</rights>
+  <entry>
+    <title>Monday, October 26, 2026: Five launches, five successes since Thursday</title>
+    <link rel="alternate" type="text/html" href="https://cfmayer.github.io/launch-report/issues/2026-10-26/"/>
+    <link rel="enclosure" type="application/pdf" length="912918" href="https://cfmayer.github.io/launch-report/issues/2026-10-26/launch-report-2026-10-26.pdf"/>
+    <id>https://cfmayer.github.io/launch-report/issues/2026-10-26/</id>
+    <published>2026-10-26T08:00:00-04:00</published>
+    <updated>2026-10-26T12:10:34-04:00</updated>
+    <summary type="html">&lt;p&gt;Rocket Lab&#x27;s Electron put three HawkEye 360 satellites in orbit early Friday, China flew three Long March rockets from Taiyuan, Jiuquan and Wenchang between Friday morning and Saturday night, and Starlink 15-15 finally left Vandenberg on Friday evening after three earlier scrubs. That brings 2026 to 250 orbital launch attempts, 243 of them successful, according to &lt;a href=&quot;https://planet4589.org/space/gcat/&quot;&gt;GCAT&lt;/a&gt;.&lt;/p&gt;&lt;p&gt;Two Vandenberg Starlinks have moved a day later, India&#x27;s GSLV now has a firm date of Friday, and United Launch Alliance&#x27;s Vulcan with Amazon Leo LV-01 has slipped from late October into November. In Texas, Starship&#x27;s Booster 22 completed a full-duration static fire on Sunday ahead of Flight 15.&lt;/p&gt;</summary>
+  </entry>
   <entry>
     <title>Thursday, October 22, 2026: MMX is on its way to Mars; three launches, three successes since Monday</title>
     <link rel="alternate" type="text/html" href="https://cfmayer.github.io/launch-report/issues/2026-10-22/"/>
