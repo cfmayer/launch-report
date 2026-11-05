@@ -5,10 +5,19 @@
   <link rel="self" type="application/atom+xml" href="https://cfmayer.github.io/launch-report/feed.xml"/>
   <link rel="alternate" type="text/html" href="https://cfmayer.github.io/launch-report/"/>
   <id>https://cfmayer.github.io/launch-report/</id>
-  <updated>2026-11-03T08:52:31-05:00</updated>
+  <updated>2026-11-05T08:52:24-05:00</updated>
   <author><name>The Launch Report</name></author>
   <icon>https://cfmayer.github.io/launch-report/apple-touch-icon.png</icon>
   <rights>The Launch Report is compiled from official agency releases, regulatory filings, orbital tracking data, public posts on X and published reporting. Quotes are reproduced verbatim unless marked as translated or paraphrased. Launch times change often; check with the launch provider before making plans.</rights>
+  <entry>
+    <title>Thursday, November 5, 2026: Electron&#x27;s 99th and a Spacesail cluster open November</title>
+    <link rel="alternate" type="text/html" href="https://cfmayer.github.io/launch-report/issues/2026-11-05/"/>
+    <link rel="enclosure" type="application/pdf" length="1636062" href="https://cfmayer.github.io/launch-report/issues/2026-11-05/launch-report-2026-11-05.pdf"/>
+    <id>https://cfmayer.github.io/launch-report/issues/2026-11-05/</id>
+    <published>2026-11-05T08:00:00-05:00</published>
+    <updated>2026-11-05T08:52:24-05:00</updated>
+    <summary type="html">&lt;p&gt;Two orbital launches flew worldwide since Monday&#x27;s issue, both successful. Rocket Lab&#x27;s Electron lofted a Japanese radar satellite on its 99th flight Monday morning from Mahia, and China&#x27;s Kinetica 2 put 18 Spacesail communications satellites into polar orbit Monday evening from Jiuquan. That brings 2026 to 255 orbital launch attempts, 248 of them successful, according to &lt;a href=&quot;https://planet4589.org/space/gcat/&quot;&gt;GCAT&lt;/a&gt; plus Monday&#x27;s flights from &lt;a href=&quot;https://ll.thespacedevs.com/2.3.0/launches/previous/&quot;&gt;Launch Library 2&lt;/a&gt;.&lt;/p&gt;&lt;p&gt;USSF-432 has slipped again, to Friday night in the &lt;a href=&quot;https://www.fly.faa.gov/adv/adv_spt.jsp&quot;&gt;FAA&lt;/a&gt; plan, and Starlink 15-21 is off the near-term board. NASA&#x27;s Neil Gehrels Swift Observatory reentered Wednesday over Indonesia after nearly 22 years, and Canadian and NASA astronauts were due outside the International Space Station this morning to install the final roll-out solar array.&lt;/p&gt;</summary>
+  </entry>
   <entry>
     <title>Monday, November 2, 2026: India&#x27;s NVS-03 and the 700th Falcon 9 close out October</title>
     <link rel="alternate" type="text/html" href="https://cfmayer.github.io/launch-report/issues/2026-11-02/"/>
