@@ -5,10 +5,19 @@
   <link rel="self" type="application/atom+xml" href="https://cfmayer.github.io/launch-report/feed.xml"/>
   <link rel="alternate" type="text/html" href="https://cfmayer.github.io/launch-report/"/>
   <id>https://cfmayer.github.io/launch-report/</id>
-  <updated>2026-11-09T08:57:44-05:00</updated>
+  <updated>2026-11-12T08:59:10-05:00</updated>
   <author><name>The Launch Report</name></author>
   <icon>https://cfmayer.github.io/launch-report/apple-touch-icon.png</icon>
   <rights>The Launch Report is compiled from official agency releases, regulatory filings, orbital tracking data, public posts on X and published reporting. Quotes are reproduced verbatim unless marked as translated or paraphrased. Launch times change often; check with the launch provider before making plans.</rights>
+  <entry>
+    <title>Thursday, November 12, 2026: Vulcan returns and Starship goes for a double catch on Friday</title>
+    <link rel="alternate" type="text/html" href="https://cfmayer.github.io/launch-report/issues/2026-11-12/"/>
+    <link rel="enclosure" type="application/pdf" length="924163" href="https://cfmayer.github.io/launch-report/issues/2026-11-12/launch-report-2026-11-12.pdf"/>
+    <id>https://cfmayer.github.io/launch-report/issues/2026-11-12/</id>
+    <published>2026-11-12T08:00:00-05:00</published>
+    <updated>2026-11-12T08:59:10-05:00</updated>
+    <summary type="html">&lt;p&gt;Two orbital launches flew worldwide since Monday&#x27;s issue, and both reached orbit: a Long March 2D from Jiuquan with the Chinese Academy of Sciences&#x27; Pathfinder-1 science satellite on Wednesday morning, and a Falcon 9 from Vandenberg with the classified USSF-627 mission late Wednesday night, two days later than planned. That brings 2026 to 262 orbital launch attempts and 255 successes, counting &lt;a href=&quot;https://planet4589.org/space/gcat/&quot;&gt;GCAT&lt;/a&gt; through Sunday and the two launches since.&lt;/p&gt;&lt;p&gt;Friday is the big day. United Launch Alliance&#x27;s (ULA) Vulcan flies for the first time in more than nine months with 40 Amazon Leo satellites at 12:54 p.m., and the FAA&#x27;s airspace plan now carries Starship Flight 15 at 5:45 p.m., with a first attempt to catch both the booster and the ship (&lt;a href=&quot;https://www.fly.faa.gov/adv/adv_spt.jsp&quot;&gt;FAA&lt;/a&gt;). Rocket Lab&#x27;s 100th Electron follows early Saturday. South Korea&#x27;s military rocket demonstration is off again after a diver died working on its launch barge, and NASA&#x27;s twin ESCAPADE probes are now headed for Mars.&lt;/p&gt;</summary>
+  </entry>
   <entry>
     <title>Monday, November 9, 2026: Five for five, and Starship lines up a double catch</title>
     <link rel="alternate" type="text/html" href="https://cfmayer.github.io/launch-report/issues/2026-11-09/"/>
