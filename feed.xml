@@ -5,10 +5,19 @@
   <link rel="self" type="application/atom+xml" href="https://cfmayer.github.io/launch-report/feed.xml"/>
   <link rel="alternate" type="text/html" href="https://cfmayer.github.io/launch-report/"/>
   <id>https://cfmayer.github.io/launch-report/</id>
-  <updated>2026-11-16T08:59:45-05:00</updated>
+  <updated>2026-11-19T08:57:54-05:00</updated>
   <author><name>The Launch Report</name></author>
   <icon>https://cfmayer.github.io/launch-report/apple-touch-icon.png</icon>
   <rights>The Launch Report is compiled from official agency releases, regulatory filings, orbital tracking data, public posts on X and published reporting. Quotes are reproduced verbatim unless marked as translated or paraphrased. Launch times change often; check with the launch provider before making plans.</rights>
+  <entry>
+    <title>Thursday, November 19, 2026: Vulcan&#x27;s failure traced to its fuel feed; a quiet week at the pads</title>
+    <link rel="alternate" type="text/html" href="https://cfmayer.github.io/launch-report/issues/2026-11-19/"/>
+    <link rel="enclosure" type="application/pdf" length="1100687" href="https://cfmayer.github.io/launch-report/issues/2026-11-19/launch-report-2026-11-19.pdf"/>
+    <id>https://cfmayer.github.io/launch-report/issues/2026-11-19/</id>
+    <published>2026-11-19T08:00:00-05:00</published>
+    <updated>2026-11-19T08:57:54-05:00</updated>
+    <summary type="html">&lt;p&gt;United Launch Alliance (ULA) said Wednesday that Sunday&#x27;s Vulcan failure points to &quot;inadequate fuel supply from the vehicle to the BE-4 engines, not from the performance of the engines,&quot; a finding that matters to Blue Origin, which builds those engines, as much as to ULA (&lt;a href=&quot;https://spaceflightnow.com/2026/11/18/vulcan-failure-investigation-focuses-on-inadequate-fuel-supply-to-booster-engines/&quot;&gt;Spaceflight Now&lt;/a&gt;). Vulcan stays grounded with no return-to-flight date, and 38 Amazon launches and a stack of national security missions wait on it.&lt;/p&gt;&lt;p&gt;Only one orbital launch flew worldwide since Monday&#x27;s issue: a Chinese Long March 2D carrying the Shijian 24 satellite on Wednesday evening (&lt;a href=&quot;https://english.news.cn/20261119/ce1f382a1553421894c8785e260fba7a/c.html&quot;&gt;Xinhua&lt;/a&gt;). That brings 2026 to 267 orbital launch attempts and 259 successes, counting &lt;a href=&quot;https://planet4589.org/space/gcat/&quot;&gt;GCAT&lt;/a&gt; through Sunday plus Wednesday&#x27;s launch. The pace picks up now: a classified Falcon 9 is set for late Thursday night, an Ariane 64 carries 36 Amazon Leo satellites on Monday, and the rocket for China&#x27;s Shenzhou 24 crew is on the pad.&lt;/p&gt;</summary>
+  </entry>
   <entry>
     <title>Monday, November 16, 2026: A Starship comes home from orbit; Vulcan is lost</title>
     <link rel="alternate" type="text/html" href="https://cfmayer.github.io/launch-report/issues/2026-11-16/"/>
